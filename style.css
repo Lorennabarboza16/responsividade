@@ -3,5 +3,9 @@
 }
 
 body {
-background-color: #EBECEE; var(--cor--de--fundo;)
+   background-color: #EBECEE; var(--cor--de--fundo;)
+}
+
+h1{
+   background-color: white;
 }
